@@ -20,7 +20,7 @@ All of the dog data is stored in the `db.json` file. You'll want to access this 
 using a json server. In order to do this, run `$ npm install -g json-server` and
 then `$ json-server --watch db.json`.
 
-This will setup the data on a server using restful routes at http://localhost:3000/pups.
+This will setuphttp the data on a server using restful routes at ://localhost:3000/pups.
 Go ahead and head to that url in your browser to view the data.
 Familiarize yourself with the attributes for each pup. Try going to `/pups/:id` to see an individual pup as well.
 
